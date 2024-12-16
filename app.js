@@ -22,19 +22,19 @@ const categorias = [
         id: 4,
         nombre: "Zapatillas Runner",
         descripcion: "Diseñadas para corredores, máximo rendimiento y comodidad",
-        imagen: "images/categorias/runner.png"
+        imagen: "/images/categorias/runner.png"
     },
     {
         id: 5,
         nombre: "Ropa Deportiva",
         descripcion: "Máximo rendimiento y comodidad",
-        imagen: "images/categorias/ropadeportiva.png"
+        imagen: "/images/categorias/ropadeportiva.png"
     },
     {
         id: 6,
         nombre: "Accesorios",
         descripcion: "Complementos para completar tu estilo",
-        imagen: "images/categorias/accesorio.png"
+        imagen: "/images/categorias/accesorio.png"
     }
 ];
 
